@@ -14,6 +14,6 @@
     - 代码 [github](https://github.com/wzhaofei/studybook/tree/main/phase01/20211031)
     - 掘金文章 [🔗 地址](https://juejin.cn/post/7025228542241669128/)
   - 2021.11.02  leetcode 141、leetcode 142
-    - 代码 [github](https://github.com/wzhaofei/studybook/tree/main/phase01/20211031)
-    - 掘金文章 [🔗 地址](https://juejin.cn/post/7025228542241669128/)
+    - 代码 [github](https://github.com/wzhaofei/studybook/tree/main/phase01/20211102)
+    - 掘金文章 [🔗 地址](https://juejin.cn/post/7026006579249938462/)
     
